@@ -1,2 +1,2 @@
 # MNIST-with-FC-MLP
-# Number Recognition
+Number Recognition With Neural Network
